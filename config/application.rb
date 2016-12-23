@@ -1,4 +1,4 @@
-require File.expand_path('../boot', __FILE__)
+unicornrequire File.expand_path('../boot', __FILE__)
 
 # Pick the frameworks you want:
 require "active_record/railtie"
